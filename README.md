@@ -17,7 +17,7 @@ I build fast, native-feeling software — mostly desktop apps with **Rust + Taur
 
 <br/>
 
-<img align="right" alt="Tauri" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" width="180px" />
+<img align="right" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="180px" />
 
 ### 🧐 More About Me:
 
