@@ -7,12 +7,9 @@
 
 # Hey 👋, I'm Kairo!
 
-<a href="https://x.com/taochen386553" target="_blank"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff" />
-  <img align="left" height="18px" alt="X" src="https://cdn.simpleicons.org/x/000000" />
-</picture></a>
-<a href="mailto:ct188579@gmail.com" target="_blank"><img align="left" height="18px" alt="Email" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>
-<a href="https://github.com/ct188579" target="_blank"><img align="left" height="18px" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+<a href="https://x.com/taochen386553" target="_blank"><img align="left" height="18px" hspace="6" alt="X" src="https://cdn.simpleicons.org/x/1D9BF0" /></a>
+<a href="mailto:ct188579@gmail.com" target="_blank"><img align="left" height="18px" hspace="6" alt="Email" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>
+<a href="https://github.com/ct188579" target="_blank"><img align="left" height="18px" hspace="6" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
 
 <br/>
 
@@ -35,34 +32,34 @@ I build fast, native-feeling software — mostly desktop apps with **Rust + Taur
 
 ### 🔨 Languages and Tools:
 
-<a href="https://www.rust-lang.org" target="_blank"><img align="left" alt="Rust" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" /></a>
-<a href="https://www.typescriptlang.org" target="_blank"><img align="left" alt="TypeScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
-<a href="https://react.dev" target="_blank"><img align="left" alt="React" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-<a href="https://nextjs.org" target="_blank"><img align="left" alt="Next.js" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
-<a href="https://vuejs.org" target="_blank"><img align="left" alt="Vue" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>
-<a href="https://tauri.app" target="_blank"><img align="left" alt="Tauri" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" /></a>
-<a href="https://vite.dev" target="_blank"><img align="left" alt="Vite" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" /></a>
-<a href="https://tailwindcss.com" target="_blank"><img align="left" alt="Tailwind CSS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /></a>
-<a href="https://motion.dev" target="_blank"><img align="left" alt="Framer Motion" height="42px" src="https://cdn.simpleicons.org/framer/0055FF" /></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-<a href="https://fastapi.tiangolo.com" target="_blank"><img align="left" alt="FastAPI" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></a>
+<a href="https://www.rust-lang.org" target="_blank"><img align="left" alt="Rust" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" /></a>
+<a href="https://www.typescriptlang.org" target="_blank"><img align="left" alt="TypeScript" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+<a href="https://react.dev" target="_blank"><img align="left" alt="React" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+<a href="https://nextjs.org" target="_blank"><img align="left" alt="Next.js" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
+<a href="https://vuejs.org" target="_blank"><img align="left" alt="Vue" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>
+<a href="https://tauri.app" target="_blank"><img align="left" alt="Tauri" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" /></a>
+<a href="https://vite.dev" target="_blank"><img align="left" alt="Vite" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" /></a>
+<a href="https://tailwindcss.com" target="_blank"><img align="left" alt="Tailwind CSS" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /></a>
+<a href="https://motion.dev" target="_blank"><img align="left" alt="Framer Motion" height="42px" hspace="5" src="https://cdn.simpleicons.org/framer/0055FF" /></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+<a href="https://fastapi.tiangolo.com" target="_blank"><img align="left" alt="FastAPI" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></a>
 
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img align="left" alt="Spring Boot" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
-<a href="https://en.cppreference.com/w/c" target="_blank"><img align="left" alt="C" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
-<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
-<a href="https://www.swift.org" target="_blank"><img align="left" alt="Swift" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /></a>
-<a href="https://developer.apple.com/xcode/" target="_blank"><img align="left" alt="Xcode" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /></a>
-<a href="https://www.apple.com/macos" target="_blank"><img align="left" alt="macOS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></a>
-<a href="https://supabase.com" target="_blank"><img align="left" alt="Supabase" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" /></a>
-<a href="https://www.postgresql.org" target="_blank"><img align="left" alt="PostgreSQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
-<a href="https://www.mysql.com" target="_blank"><img align="left" alt="MySQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
-<a href="https://www.mongodb.com" target="_blank"><img align="left" alt="MongoDB" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
-<a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
-<a href="https://git-scm.com" target="_blank"><img align="left" alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-<a href="https://github.com/ct188579" target="_blank"><img align="left" alt="GitHub" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img align="left" alt="Spring Boot" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
+<a href="https://en.cppreference.com/w/c" target="_blank"><img align="left" alt="C" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
+<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
+<a href="https://www.swift.org" target="_blank"><img align="left" alt="Swift" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /></a>
+<a href="https://developer.apple.com/xcode/" target="_blank"><img align="left" alt="Xcode" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /></a>
+<a href="https://www.apple.com/macos" target="_blank"><img align="left" alt="macOS" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></a>
+<a href="https://supabase.com" target="_blank"><img align="left" alt="Supabase" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" /></a>
+<a href="https://www.postgresql.org" target="_blank"><img align="left" alt="PostgreSQL" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
+<a href="https://www.mysql.com" target="_blank"><img align="left" alt="MySQL" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+<a href="https://www.mongodb.com" target="_blank"><img align="left" alt="MongoDB" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
+<a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
+<a href="https://git-scm.com" target="_blank"><img align="left" alt="Git" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<a href="https://github.com/ct188579" target="_blank"><img align="left" alt="GitHub" height="42px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
 
 <br clear="left" />
 
@@ -77,8 +74,8 @@ I build fast, native-feeling software — mostly desktop apps with **Rust + Taur
 
 ### 🛠️ My Projects
 
-<!-- MacRPA 仓库目前是 private，公开主页里链过去会 404；改成 public 后再把下面这行换成 <a href="https://github.com/ct188579/MacRPA">…</a> -->
-<img align="left" alt="MacRPA" height="40px" src="https://img.shields.io/badge/MacRPA-181717?style=for-the-badge&logo=rust&logoColor=white" />
+<!-- MacRPA 目前是 private，等改成 public 后这个链接就能正常打开 -->
+<a href="https://github.com/ct188579/MacRPA" target="_blank"><img align="left" alt="MacRPA" height="40px" src="https://img.shields.io/badge/MacRPA-181717?style=for-the-badge&logo=rust&logoColor=white" /></a>
 
 **MacRPA** — a macOS automation tool for repetitive desktop workflows. Built as a native desktop app, so it starts fast and stays out of the way.
 
